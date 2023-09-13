@@ -22,8 +22,8 @@ Apply the filter to the image using cv2.filter2D
 Display or save the processed image using cv2.imshow
 
 ## Program:
-### Developed By:  JAYAKRISHNAN L B L
-### Register Number: 212222230052
+### Developed By:  VAISHNAV NANDA
+### Register Number: 212222240056
 </br>
 
 ### 1. Smoothing Filters:
